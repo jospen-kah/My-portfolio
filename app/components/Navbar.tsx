@@ -26,6 +26,7 @@ function Navbar() {
             <div className='hidden md:flex space-x-4 gap-4'>
                 {navLinks.map((link) => (
                     <Link
+                        className='text-[#053D57]  border-transparent hover:border-b-2  font-semibold text-lg'
                         key={link.href}
                         href={link.href}>
                         {link.label}

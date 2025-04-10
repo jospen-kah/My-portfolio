@@ -4,8 +4,8 @@ import { FaBriefcase, FaGraduationCap, FaMapMarkerAlt, FaLaptopCode } from "reac
 
 const timelineData = [
   {
-    title: "Employment at Optum",
-    date: "02/2022 - 05/2023",
+    title: "Internship at TIC Foundation",
+    date: "08/2024 - 02/2025",
     icon: <FaBriefcase />,
   },
   {
@@ -19,7 +19,7 @@ const timelineData = [
     icon: <FaBriefcase />,
   },
   {
-    title: "Computer Science Degree from Brooklyn College",
+    title: "Computer Engineering Degree from University of Buea",
     date: "09/2021 - 02/2022",
     icon: <FaGraduationCap />,
   },
