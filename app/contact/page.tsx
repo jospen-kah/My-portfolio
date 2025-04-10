@@ -1,9 +1,8 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaGithub} from 'react-icons/fa'
 import { MdOutlineMail } from "react-icons/md";
 import { TiSocialLinkedinCircular } from "react-icons/ti";
-import Link from 'next/link'
 
 
 const page = () => {
