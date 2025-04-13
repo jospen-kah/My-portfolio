@@ -5,7 +5,7 @@ import { MdOutlineMail } from "react-icons/md";
 import { TiSocialLinkedinCircular } from "react-icons/ti";
 
 
-const page = () => {
+const Page = () => {
     return (
         <div>
             <Navbar />
@@ -71,4 +71,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page

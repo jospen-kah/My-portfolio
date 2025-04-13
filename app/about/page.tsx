@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Timeline from '../components/Timeline'
 
-function page() {
+function Page() {
   return (
     <div className='flex flex-col'>
         <Navbar />
@@ -23,4 +23,4 @@ function page() {
   )
 }
 
-export default page
+export default Page
