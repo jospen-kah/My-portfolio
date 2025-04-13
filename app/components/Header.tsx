@@ -12,8 +12,12 @@ function Header() {
         <div className='flex py-2 '>
           <Link href="/contact" className='flex   bg-[#053D57] text-white px-5 py-2 rounded-3xl mt-5'>Contact Me</Link>
           <div className='flex flex-1 px-3  items-center pt-5 gap-1'>
-            <Link href=''><FaGithub size={30} /></Link>
-            <Link href=''> <FaLinkedin size={30} /></Link>
+            <Link href="https://github.com/jospen-kah"
+                                target="_blank"
+                                rel="noopener noreferrer"><FaGithub size={30} /></Link>
+            <Link href="https://www.linkedin.com/in/kah-jospen-ngum/"
+                                target="_blank"
+                                rel="noopener noreferrer"> <FaLinkedin size={30} /></Link>
 
           </div>
         </div>

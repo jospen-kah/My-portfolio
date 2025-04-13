@@ -9,13 +9,13 @@ const timelineData = [
     icon: <FaBriefcase />,
   },
   {
-    title: "Bootcamp at Teksystems/Perscholas",
-    date: "09/2021 - 02/2022",
+    title: "Aspire Academy",
+    date: "03/2-25 - Ongoing",
     icon: <FaLaptopCode />,
   },
   {
-    title: "Internship at Stairs Academy",
-    date: "00/0000 - 00/0000",
+    title: "Volunteer at TIC Foundation",
+    date: "08/2022 - 02/2023",
     icon: <FaBriefcase />,
   },
   {
@@ -24,8 +24,8 @@ const timelineData = [
     icon: <FaGraduationCap />,
   },
   {
-    title: "Moving to the United States from Georgia",
-    date: "2016",
+    title: "YALI RLC",
+    date: "2024-2025",
     icon: <FaMapMarkerAlt />,
   },
 ];
