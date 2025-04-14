@@ -56,8 +56,8 @@ const Page = () => {
 
 
                         <form className='flex flex-col gap-8 px-2 py-2  items-center justify-center'>
-                            <input type='text' name='name' placeholder=' Your Name...' className='w-full bg-[#97BCC7] p-1 rounded-full placeholder-white placeholder-px-2' />
-                            <input type='email' name='email' placeholder='Your Email...' className='w-full bg-[#97BCC7] p-1 rounded-full placeholder-white' />
+                            <input type='text' name='name' placeholder=' Your Name...' className='w-full bg-[#97BCC7] p-1 rounded-full placeholder-white text-white placeholder-px-2' />
+                            <input type='email' name='email' placeholder='Your Email...' className='w-full bg-[#97BCC7] p-1 rounded-full placeholder-white text-white' />
                             <textarea
                                 placeholder="Type your message here..." className='w-full bg-[#97BCC7] p-1 rounded-md placeholder-white border-none text-white h-50'>
 
