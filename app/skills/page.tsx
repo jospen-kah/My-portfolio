@@ -27,7 +27,7 @@ function Page() {
             )}
 
             <iframe
-              src="/resume.pdf"
+               src={`/resume.pdf#toolbar=0&navpanes=0`}
               typeof="application/pdf"
               className="w-full h-[800px] border rounded shadow-md"
               onLoad={() => setIsLoading(false)}
